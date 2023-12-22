@@ -1,4 +1,12 @@
 # ÜniÜnity CI/CD 파이프라인 구축
+안녕하세요.👋 UniUnity는 대학교 인근상권을 한눈에 보여주는 서비스입니다.
+
+소상공인 상가 정보와 제휴혜택 정보를 제공하고, 대학교와 학생, 인근상권 상인에게 커뮤니티를 제공해요!
+
+ÜniÜnity 오픈소스 서비스에 여러분들도 기여해보세요 :)
+
+<br>
+
 ## 🛠  ÜniÜnity CI/CD Pipeline Architecture
 ![48](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/6aa43937-dd46-4de2-822d-a400ff60d729)
 
@@ -13,10 +21,31 @@
 
 데모영상 보러가기 : 
 
-## 📑  ÜniÜnity CI/CD Pipeline 테스트를 위한 매뉴얼
+## 📑  ÜniÜnity CI/CD Pipeline 테스트를 위한 매뉴얼(ÜniÜnity 오픈소스 서비스에 기여하는 매뉴얼)
+<details>
+    <summary> ÜniÜnity 오픈소스 서비스에 기여하는 매뉴얼 보러가기 </summary>
+  <br>
 
-매뉴얼 보러가기 : 
+![35](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/eae6555d-0dc3-44e7-a700-0171e5f3e0fe)
+![36](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/4c1c8c60-186d-4d8e-9ea9-6d8ec38e6442)
+![37](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/c8828b58-59cb-4c31-a75a-7a6487a88549)
+![38](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/d5a31ff5-98d5-44a4-a084-e07bcec0fcc3)
+- 현재 GCP 비용문제로 서버를 닫아놔서 접속이 불가능합니다. 언제든지 기여하고 싶으면 서버를 재가동 시켜드리겠습니다.(이슈를 통해 연락부탁드립니다.)
 
+![39](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/e7486e44-c12e-44bf-99ad-2bd49977c3b7)
+![40](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/7f00e0b7-7049-449c-b992-82b71089f933)
+![41](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/def9d3cc-617b-4b6e-b993-e257b5dd0bc9)
+![42](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/f5b192b9-2628-4eab-b1d0-8efcbe35b872)
+![43](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/775b1b31-171d-4740-80e6-9c90627b2503)
+![44](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/1f5919a9-5122-439d-89bd-625513405dd8)
+![45](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/7282cbbf-5452-4412-825b-0be189ac9c73)
+![46](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/234b45a6-a710-4f2b-87d6-e85ec1979d6b)
+![47](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/e243f63d-35c0-4d1e-8964-46762009a80b)
+
+
+
+
+</details>
 
 ## 🔮 Team 
 2023학년 2학기 오픈소스 소프트웨어 팀프로젝트 8팀
