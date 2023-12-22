@@ -7,20 +7,6 @@
 
 <br>
 
-## 🛠  ÜniÜnity CI/CD Pipeline Architecture
-![48](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/6aa43937-dd46-4de2-822d-a400ff60d729)
-
-* 사용한 언어/툴 
-
-  * front-end : HTML,CSS, Javascript
-  * back-end :  node-js/visual studio code, mysql, firebase-storage, Google Cloud Platform
-  * CI/CD : Jenkins, Docker, Kubernetes
-
-
-## 🎥  ÜniÜnity CI/CD Pipeline 구축 Demo Video
-
-데모영상 보러가기 : 
-
 ## 📑  ÜniÜnity CI/CD Pipeline 테스트를 위한 매뉴얼(ÜniÜnity 오픈소스 서비스에 기여하는 매뉴얼)
 <details>
     <summary> ÜniÜnity 오픈소스 서비스에 기여하는 매뉴얼 보러가기 </summary>
@@ -46,6 +32,25 @@
 
 
 </details>
+<br>
+
+## 🎥  ÜniÜnity CI/CD Pipeline 구축 Demo Video
+
+데모영상 보러가기 : 
+
+<br>
+
+## 🛠  ÜniÜnity CI/CD Pipeline Architecture
+![48](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/6aa43937-dd46-4de2-822d-a400ff60d729)
+
+* 사용한 언어/툴 
+
+  * front-end : HTML,CSS, Javascript
+  * back-end :  node-js/visual studio code, mysql, firebase-storage, Google Cloud Platform
+  * CI/CD : Jenkins, Docker, Kubernetes
+
+<br>
+
 
 ## 🔮 Team 
 2023학년 2학기 오픈소스 소프트웨어 팀프로젝트 8팀
@@ -54,6 +59,7 @@
 - 나은영, 박지현, 오영서
 
 
+<br>
 
 ## 🎤 Presentation
 ![1](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/132a1537-73c8-4acb-afc5-cbb805f1009d)
