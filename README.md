@@ -46,8 +46,7 @@
 
 - 대다수의 팀에서 이 방법으로 개발을 진행하셨을 것 같은데요, 저희도 깃허브 풀리퀘스트를 통해 자신의 코드를 올리고, 수정된 코드를 확인하며 merge하는 과정을 거쳐 개발을 진행했습니다
 
-
-![5](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/6c06511f-9572-4cc5-88f8-cdc8527bbd8e)
+![오픈소스소프트웨어8팀발표자료](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/d1daf66e-9782-494c-ad31-ae56912e57b9)
 
 - 또한 저희는 이슈 탬플릿을 생성하여 이슈를 업로드하며 팀원들에게 요구사항을 요청하고 확인하며 개발을 진행했습니다.
 
