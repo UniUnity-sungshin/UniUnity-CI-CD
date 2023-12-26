@@ -36,7 +36,7 @@
 
 ## 🎥  ÜniÜnity CI/CD Pipeline 구축 Demo Video
 
-데모영상 보러가기 : 
+데모영상 보러가기 :  https://youtu.be/cEX1cwVgqnc?si=xWjsScVd3oJxatxA
 
 <br>
 
