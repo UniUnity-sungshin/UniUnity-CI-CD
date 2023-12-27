@@ -35,8 +35,6 @@
 <br>
 
 ## 🎥  ÜniÜnity CI/CD Pipeline 구축 Demo Video
-<img src="https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/1e6ec1ea-14b5-4cbe-87b2-d5c236b572d8">
-
 데모영상 보러가기 :  https://youtu.be/cEX1cwVgqnc?si=xWjsScVd3oJxatxA
 
 <br>
