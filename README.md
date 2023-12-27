@@ -35,6 +35,7 @@
 <br>
 
 ## 🎥  ÜniÜnity CI/CD Pipeline 구축 Demo Video
+<img src="https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/1e6ec1ea-14b5-4cbe-87b2-d5c236b572d8">
 
 데모영상 보러가기 :  https://youtu.be/cEX1cwVgqnc?si=xWjsScVd3oJxatxA
 
@@ -215,7 +216,7 @@
 - 일반적으로 컨테이너가 삭제되면 데이터도 함께 다 사라지나, 컨테이너의 생명주기와 상관없이 데이터의 영속성을 부여하는 것이 vloumn이기에 이와 같은 현상이 발생한 것입니다. 젠킨스 컨테이너와 연결된 volumns도 전부 지워주고 젠킨스 컨테이너를 재설치를 진행하였더니 다시 초기 비밀번호 파일을 찾을 수 있었으며 젠킨스에 로그인할 수 있었습니다.
 
 ![32](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/ed4de2ad-2549-4d6f-ab10-fdf1def8868d)
-- 데모영상: 
+- 데모영상: https://youtu.be/cEX1cwVgqnc?si=xWjsScVd3oJxatxA
 
 ![33](https://github.com/UniUnity-sungshin/UniUnity-CI-CD/assets/80438964/f1973552-f738-4b09-968c-d5370eeddb2b)
 - 느낀점 :
